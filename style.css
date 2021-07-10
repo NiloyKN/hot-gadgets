@@ -1,0 +1,25 @@
+footer{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    
+}
+.categories{
+    text-align: center;
+    
+
+}
+.row img{
+    box-sizing: border-box;
+
+border: blue;    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
